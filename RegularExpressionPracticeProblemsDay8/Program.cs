@@ -25,7 +25,7 @@ namespace RegularExpressionPracticeProblemsDay8
             {
                 Console.WriteLine("No sequences of lowercase letters joined by an underscore found.");
             }
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
